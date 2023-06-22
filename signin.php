@@ -34,7 +34,7 @@
         </label>
         <a class="link-info forget-link" href="##">رمز را فراموش کرده اید؟</a>
         <label class="form-checkbox-wrapper">
-          <input class="form-checkbox" type="checkbox" required>
+          <input class="form-checkbox" type="checkbox">
           <span class="form-checkbox-label mx-1">مرا به خاطر بسپار</span>
         </label>
         <button class="form-btn primary-default-btn transparent-btn">ورود</button>
